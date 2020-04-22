@@ -113,3 +113,4 @@ barplot(
   ylab="Casos fallecidos", 
   main="Casos fallecidos de Covid-19 en países centroamericanos y DOM")
 ```
+---
